@@ -33,3 +33,6 @@ Desarrollo de Apis o EndPoints en base a las HU y Base de datos realizado.
 
 - nodemon: Es una utilidad que monitorea cualquier cambio en tu código fuente y reinicia automáticamente tu servidor. Esto es útil en la etapa de desarrollo, ya que no tienes que detener y reiniciar el servidor cada vez que haces un cambio en el código.
 -- npm install --save-dev nodemon
+
+
+![Tecnologías](https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg)
